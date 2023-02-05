@@ -13,6 +13,7 @@ Curso que agrupa todas las clases que hacen referencia a los fundamentos de Leaf
 > Código: Todo el código se encuentra en la raiz de este repositorio de Github
 
 * [Lección 1 - Introducción a Leaflet](https://youtu.be/AyAMKEPxnHc)
+* [Lección 2 - Introducción a Mapbox](https://youtu.be/nDGY4w-OA9s)
 * Cada lunes a las 8:00 am (Hora de Colombia) se subirá a youtube un nuevo video
 
 ## Enlaces de interés
