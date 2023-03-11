@@ -15,7 +15,7 @@ Curso que agrupa todas las clases que hacen referencia a los fundamentos de Leaf
 * [Lección 1 - Introducción a Leaflet](https://youtu.be/AyAMKEPxnHc)
 * [Lección 2 - Introducción a Mapbox](https://youtu.be/nDGY4w-OA9s)
 * [Lección 3 - Introducción a OpenLayers](https://youtu.be/2Lzvjn_YvWs)
-* Cada lunes a las 8:00 am (Hora de Colombia) se subirá a youtube un nuevo video
+* [Lección 4 - Visualizar Datos con Leaflet](https://youtu.be/_Hns5rMt6uQ)
 
 ## Enlaces de interés
 
