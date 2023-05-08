@@ -16,6 +16,8 @@ Curso que agrupa todas las clases que hacen referencia a los fundamentos de Leaf
 * [Lección 2 - Introducción a Mapbox](https://youtu.be/nDGY4w-OA9s)
 * [Lección 3 - Introducción a OpenLayers](https://youtu.be/2Lzvjn_YvWs)
 * [Lección 4 - Visualizar Datos con Leaflet](https://youtu.be/_Hns5rMt6uQ)
+* [Lección 5 - Visualizar Datos con Mapbox](https://youtu.be/AIylZUoadwI)
+* [Lección 6 - GeoServer e Imágenes](https://youtu.be/tme1LF7o-og)
 
 ## Enlaces de interés
 
